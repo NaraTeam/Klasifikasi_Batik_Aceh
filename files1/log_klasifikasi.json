@@ -1,0 +1,26 @@
+[
+    {
+        "timestamp": "2026-07-06 03:27:11",
+        "filename": "10004.jpg",
+        "predicted_class": "Pinto Aceh",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-06 03:28:25",
+        "filename": "100019.jpg",
+        "predicted_class": "Pinto Aceh",
+        "confidence": 100.0
+    },
+    {
+        "timestamp": "2026-07-06 03:28:47",
+        "filename": "Motif-Batik-Rencong-Aceh.jpg",
+        "predicted_class": "Pucok Reubong",
+        "confidence": 51.57
+    },
+    {
+        "timestamp": "2026-07-06 03:29:23",
+        "filename": "images (1).jpg",
+        "predicted_class": "Pucok Reubong",
+        "confidence": 100.0
+    }
+]
